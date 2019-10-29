@@ -1,0 +1,71 @@
+.container {
+    display: inline-block;
+    width: 100%;    
+}
+
+.bg-blue {
+    background-color: #6FB2F8;
+}
+
+.min-height {
+    height: 100vh;
+    background-image: url(../img/banner.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: cover;
+}
+
+/******************
+ * HERO
+ ******************/
+.hero {
+    display: inline-block;
+    width: 600px;
+    margin: 60px calc( (100% - 600px) / 2 ) 20px;
+    text-align: center;
+}
+    .hero > img {
+        display: inline-block;
+        margin-bottom: 60px;
+    }
+    .hero > h1 {
+        display: inline-block;
+        width: 100%;
+        margin-bottom: 25px;
+        font-size: 60px;
+        line-height: 60px;
+        text-transform: uppercase;
+    }
+    .hero > p {
+        display: inline-block;
+        width: 100%;
+        margin-bottom: 60px;
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .hero > .clock {
+        display: inline-block;
+        width: 100%;
+        margin-bottom: 60px;
+    }
+    .hero > form {
+        display: inline-block;
+        width: 90%;
+        margin: 0 5% 25px;
+    }
+    .hero > .mouse {
+        display: inline-block;
+    }
+
+
+/******************
+ * MAIN CONTENT
+ ******************/
+
+
+
+
+
+/******************
+ * FOOTER
+ ******************/
