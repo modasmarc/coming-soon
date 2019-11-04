@@ -101,6 +101,13 @@
         display: inline-block;
         width: 100%;
     }
+    .content form input {
+        width: 45%;
+        float: left;
+    }
+    .content form input[name="email"] {
+        float: right;
+    }
 
     /******************
  * FOOTER
