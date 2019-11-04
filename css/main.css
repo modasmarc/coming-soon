@@ -53,6 +53,14 @@
         width: 90%;
         margin: 0 5% 25px;
     }
+    .hero > form > input {
+        color: #fff;
+        border-bottom-color: #fff;
+        outline: none;
+    }
+    .hero > form > input::placeholder {
+        color: #fff;
+    }
     .hero > .mouse {
         display: inline-block;
     }
