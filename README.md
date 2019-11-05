@@ -1,3 +1,6 @@
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+![HitCount](http://hits.dwyl.io/front-end-by-rimantas/11-a-grupe-coming-soon.svg)
+
 # coming-soon
 ### coming-soon
 
